@@ -27,5 +27,17 @@
                 "src": "https://static.dacdn.de/talks/subtitles/20221206-npa-122-en.vtt"
             }
         ]
+    },
+    {
+        "id": "20221229-fireshonks",
+        "title": "Tracking in Apps: Ist das legal?",
+        "in_file": "20221229-fireshonks.mp4",
+        "subtitles": [
+            {
+                "lang": "de",
+                "label": "Deutsch",
+                "src": "https://static.dacdn.de/talks/subtitles/20221229-fireshonks-de.vtt"
+            }
+        ]
     }
 ]

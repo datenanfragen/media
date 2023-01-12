@@ -78,6 +78,7 @@ var player = new Clappr.Player({
             {value: 1.75, label: '1.75x'},
             {value: 2, label: '2x'},
             {value: 2.5, label: '2.5x'},
+            {value: 3, label: '3x'},
         ],
     },
 });
