@@ -10,5 +10,22 @@
                 "src": "https://static.dacdn.de/talks/subtitles/20200511-okl-berlin-en.vtt"
             }
         ]
+    },
+    {
+        "id": "20221206-npa-122",
+        "title": "Datenanfragen.de beim 122. Netzpolitischen Abend",
+        "in_file": "20221206-npa-122.mp4",
+        "subtitles": [
+            {
+                "lang": "de",
+                "label": "Deutsch",
+                "src": "https://static.dacdn.de/talks/subtitles/20221206-npa-122-de.vtt"
+            },
+            {
+                "lang": "en",
+                "label": "English",
+                "src": "https://static.dacdn.de/talks/subtitles/20221206-npa-122-en.vtt"
+            }
+        ]
     }
 ]
